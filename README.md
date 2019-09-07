@@ -40,16 +40,26 @@ Use `facebook prophet`, `sklearn`, `python` and the chicago crime dataset to pre
 
 #### [Avocado Price forecast - FBprophet](https://github.com/sagecodes/avocado-forecasting-fbprophet)
 
-Use `facebook prophet`, `sklearn`, `python`  predict avaocado prices in the USA. 
+Use `facebook prophet`, `python`  to predict avaocado prices in the USA. 
 
 
 #### [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
 
+Use `Random Forest` model, `sklearn`, `python`  and the Alexa Amazon Review datset to predict positive or negative reviews based on text
+
+
 #### [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+
+Use `Random Forest` model, `sklearn`, `python`  and the Kyphosis datset to predict if the Kyphosis would return after surgery. 
 
 #### [Email Spam Classifer -  Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
 
+Use `Naive Bayes` model, `sklearn`, `python`  to predict if an email is spam based on text.
+
+
 #### [Credit Card Fraud - Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+
+Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fraud.
 
 #### [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
 
