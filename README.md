@@ -1,22 +1,34 @@
 # Projects
 
-Here is a more organized way of finding my projects than lookingstraight at my github repos.
+Here is a more organized way of finding my publicly available projects.
 
-You can also visit [sageelliott.com/](https://sageelliott.com) for projects, blog posts, and more!
+You can also visit [sageelliott.com/](https://sageelliott.com) for projects, blog posts, resume,  and more!
+
+You can find a list if my workshop repos [here]().
 
 <!--## Featured Projects-->
 
 
 ## Computer Vision
 
-#### WGAN
+#### Smart Shopping Cart
+
+#### Brand Classifier
+
+#### Dog Breed Classifier
+
+#### WGAN Buildings
+
+#### GAN Faces
+
+
 
 ## Tools
 
-#### Image labeler
+#### Image Dataset labeler
 
 
-#### Image Scraper
+#### Image Dataset Scraper
 
 
 
@@ -98,9 +110,10 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 #### [Fashion MNIST](https://github.com/sagecodes/fashion-classifier) 
 
+## Deep learning Case Studies
 
 
-## Data Visualization
+## Data Visualizations
 
 
 ## Web Development
