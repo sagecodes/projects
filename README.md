@@ -8,12 +8,23 @@ You can find a list if my workshop repos [here]().
 
 <!--## Featured Projects-->
 
+## Tools
+
+#### [Image Dataset labeler](https://github.com/sagecodes/image-data-labeler)
+
+I needed a quick and simple way manually label images into seperate datasets so I made this tool using `python`, `openCV`, & `keyboard`. Someone who used this tool told me it improved their labeling time by more than 75%!
+
+
+#### Image Dataset Scraper
+
 
 ## Computer Vision
 
-#### Smart Shopping Cart
+### Projects
 
-#### Brand Classifier
+<!--#### Smart Shopping Cart
+
+#### Brand Classifier-->
 
 #### Dog Breed Classifier
 
@@ -21,18 +32,23 @@ You can find a list if my workshop repos [here]().
 
 #### GAN Faces
 
+### Case Studies
+
+Smaller projects mainly done with the purpose of learning and implementing something new.
+
+#### Mask R CNN 
+
+#### Shallownet
+
+#### LeNet
 
 
-## Tools
-
-#### Image Dataset labeler
-
-
-#### Image Dataset Scraper
 
 
 
-## Machine learning Case Studies
+## Machine learning 
+
+###Case Studies
 
 Smaller projects mainly done with the purpose of learning and implementing something new.
 
@@ -117,6 +133,8 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 
 ## Web Development
+
+### Projects:
 
 #### Block3 
 #### Froggerish
