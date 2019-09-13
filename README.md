@@ -14,12 +14,12 @@ You can find a list if my workshop repos [here]().
 
 I needed a quick and simple way manually label images into seperate datasets so I made this tool using `python`, `openCV`, & `keyboard`. Someone who used this tool told me it improved their labeling time by more than 75%!
 
-----
+--
 
 #### Image Dataset Scraper
 
 
-----
+--
 
 
 
@@ -31,21 +31,21 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 #### Brand Classifier-->
 
-----
+--
 
 #### Dog Breed Classifier
 
-----
+--
 
 
 #### WGAN Buildings
 
-----
+--
 
 
 #### GAN Faces
 
-----
+--
 
 
 ### Case Studies
