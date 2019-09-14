@@ -14,12 +14,12 @@ You can find a list if my workshop repos [here]().
 
 I needed a quick and simple way manually label images into seperate datasets so I made this tool using `python`, `openCV`, & `keyboard`. Someone who used this tool told me it improved their labeling time by more than 75%!
 
---
+----
 
-#### Image Dataset Scraper
+#### [Image Dataset Scraper](https://github.com/sagecodes/image-scraper)
 
 
---
+----
 
 
 
@@ -27,25 +27,24 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 ### Projects
 
-<!--#### Smart Shopping Cart
 
-#### Brand Classifier-->
+#### Brand Classifier
 
---
+----
 
 #### Dog Breed Classifier
 
---
+----
 
 
 #### WGAN Buildings
 
---
+----
 
 
 #### GAN Faces
 
---
+----
 
 
 ### Case Studies
@@ -55,20 +54,32 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 ----
 
 
-#### Mask R CNN 
+#### [Mask R CNN](https://github.com/sagecodes/mask-r-cnn)
 
 ----
 
 
-#### Shallownet
+#### [Shallownet](https://github.com/sagecodes/shallownet-cnn)
 
 ----
 
 
-#### LeNet
+#### [LeNet](https://github.com/sagecodes/LeNet-cnn)
 
 ----
 
+#### [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
+
+----
+
+#### [cifar image classifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
+
+----
+
+#### [Fashion MNIST](https://github.com/sagecodes/fashion-classifier) 
+
+
+----
 
 
 
@@ -79,7 +90,7 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 Smaller projects mainly done with the purpose of learning and implementing something new.
 
 #### [Iris Classification](https://github.com/sagecodes/irsit-classification2-knn)
-Use `kNN` model, `scikit learn`, `python` and the classic iris dataset to predict flower species based on features. 
+Use `kNN` model, `sklearn`, `python` and the classic iris dataset to predict flower species based on features. 
 
 ----
 
@@ -163,13 +174,7 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 #### [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
 
-----
 
-#### [cifar image classifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
-
-----
-
-#### [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
 
 ----
 
@@ -179,11 +184,7 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 #### [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
 
-----
 
-#### [Fashion MNIST](https://github.com/sagecodes/fashion-classifier) 
-
-## Deep learning Case Studies
 
 
 ## Data Visualizations
@@ -193,8 +194,21 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 ### Projects:
 
-#### Block3 
-#### Froggerish
-#### Dev Profile
-#### Conference Central
+#### [SageElliott.com](https://github.com/sagecodes/sage-blog)
+
+----
+
+#### [Block3](https://github.com/sagecodes/block3)
+
+----
+
+#### [Froggerish](https://github.com/sagecodes/froggerish)
+
+----
+
+#### [Dev Profile](https://github.com/sagecodes/devpost)
+
+----
+
+#### [Conference Central](https://github.com/sagecodes/conference-central)
 
