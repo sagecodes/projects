@@ -193,22 +193,39 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 ## Web Development
 
 ### Projects:
+___
 
 #### [SageElliott.com](https://github.com/sagecodes/sage-blog)
+
+Uses `Jekyll`, `Bootstrap`, and `Ruby` to make a static website generator. I host my blog posts, projects and more on this site. Check it out [here](https://sageelliott.com/).
 
 ----
 
 #### [Block3](https://github.com/sagecodes/block3)
 
+Created a landing page for block3. A blockchain workspace and knowledge hub in Seattle.
+
+Since no complicated were needed for the page I decided to use plain `HTML` and `CSS` to accomplish structure and styling. I used the built in `CSS Grid` property for responsive design.
+
 ----
 
 #### [Froggerish](https://github.com/sagecodes/froggerish)
+
+An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. Extra features: Score and loss counter, increased difficulty as your score progresses, and random character sprite on page load.
 
 ----
 
 #### [Dev Profile](https://github.com/sagecodes/devpost)
 
+Developed a content management system using the Flask framework in Python. Authentication is provided via OAuth and all data is stored within a PostgreSQL database.
+
+Original use was to replace Udacity student profiles with added features such as displaying projects outside of curriculum, but Udacity updated profiles to include all extra features.
+
 ----
 
 #### [Conference Central](https://github.com/sagecodes/conference-central)
+
+Using Google App Engine’s Endpoints API, built the Python backend to support a web- and Android-based conference organization application.
+
+----
 
