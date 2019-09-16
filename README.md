@@ -8,7 +8,9 @@ You can find a list if my workshop repos [here]().
 
 <!--## Featured Projects-->
 
-## Tools
+### Tools
+
+____
 
 #### [Image Dataset labeler](https://github.com/sagecodes/image-data-labeler)
 
@@ -23,9 +25,11 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 
 
-## Computer Vision
+### Computer Vision
 
-### Projects
+#### Projects
+
+----
 
 
 #### Brand Classifier
@@ -82,10 +86,13 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 ----
 
 
+#### [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 
-## Machine learning 
+----
 
-### Case Studies
+### Machine learning 
+
+#### Case Studies
 
 Smaller projects mainly done with the purpose of learning and implementing something new.
 
@@ -94,7 +101,7 @@ Use `kNN` model, `sklearn`, `python` and the classic iris dataset to predict flo
 
 ----
 
-#### [T-Shirt Classification- kNN](https://github.com/sagecodes/tshirt-size-prediction)
+#### [T-Shirt Classification](https://github.com/sagecodes/tshirt-size-prediction)
 
 Use `kNN` model, `sklearn`, `python` to predict t-shirt sizes based on features.
 
@@ -136,63 +143,71 @@ Use `Naive Bayes` model, `sklearn`, `python`  to predict if a transaction is fra
 
 ----
 
-#### [Ice-cream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+#### [Ice-cream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression)
+
+Use `simple linear regression` model,`sklearn`, & `python` to predict revenue from Ice Cream. 
 
 ----
 
-#### [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
+#### [Fuel Consumption vs. horsepower](https://github.com/sagecodes/fuel-consumption-linear-regression)
+
+Use `simple linear regression` model,`sklearn`, & `python` to predict fuel consumption vs vehicle horse power
 
 ----
 
-#### [Salary Prediction with Polynomial Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+#### [Salary vs. YoE Prediction](https://github.com/sagecodes/salary-prediction-polynomial-regression)
+
+Use `polynomial linear regression` model,`sklearn`, & `python` to Salary based on years of experience. 
 
 ----
 
-#### [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
+#### [Price vs. Manufacturing](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression)
 
-----
+Use `polynomial linear regression` model,`sklearn`, & `python` to unit manufacturing price based on amount ordered.
 
-#### [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
+<!-- ----
+
+#### [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression)
 
 ----
 
 #### [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
+-->
+----
+
+#### [Seattle House price prediction (ANN)](https://github.com/sagecodes/house-price-prediction-ANN)
+
+Create an `artificial neural network(ANN)` with `keras` and `python` to do regression prediction on housing prices with the [Seattle house price](https://www.kaggle.com/harlfoxem/housesalesprediction) dataset
 
 ----
 
-#### [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+#### [Seattle house price predict (lasso) ](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
+
+Use `lasso & ridge regression` with `sklearn` and `python` to predict housing prices with the [Seattle house price](https://www.kaggle.com/harlfoxem/housesalesprediction) dataset.
 
 ----
 
-#### [house predict - lasso & ridge-regression](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
+#### [Car Sales Prediction](https://github.com/sagecodes/car-sales-prediction-ANN)
+
+Create an `artificial neural network(ANN)` with `keras` and `python` to do regression prediction on car sale prices.
+
+
+<!--#### [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)-->
 
 ----
 
-#### [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+#### [Movie Recommender](https://github.com/sagecodes/movie-recommender-collab-filter)
+
+Use `collaborative filtering` with `pandas` and `python` to recommend movies based on previous ratings.
 
 ----
-
-#### [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
-
-
-
-----
-
-#### [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
-
-----
-
-#### [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
-
-
-
 
 ## Data Visualizations
 
 
 ## Web Development
 
-### Projects:
+#### Projects:
 ___
 
 #### [SageElliott.com](https://github.com/sagecodes/sage-blog)
@@ -211,13 +226,13 @@ Since no complicated were needed for the page I decided to use plain `HTML` and 
 
 #### [Froggerish](https://github.com/sagecodes/froggerish)
 
-An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. Extra features: Score and loss counter, increased difficulty as your score progresses, and random character sprite on page load.
+An `HTML5 Canvas` powered video game, developed using Object Oriented `JavaScript`. Extra features: Score and loss counter, increased difficulty as your score progresses, and random character sprite on page load.
 
 ----
 
 #### [Dev Profile](https://github.com/sagecodes/devpost)
 
-Developed a content management system using the Flask framework in Python. Authentication is provided via OAuth and all data is stored within a PostgreSQL database.
+Developed a content management system using the `Flask` framework in `Python`. Authentication is provided via `OAuth` and all data is stored within a `PostgreSQL` database.
 
 Original use was to replace Udacity student profiles with added features such as displaying projects outside of curriculum, but Udacity updated profiles to include all extra features.
 
@@ -225,7 +240,7 @@ Original use was to replace Udacity student profiles with added features such as
 
 #### [Conference Central](https://github.com/sagecodes/conference-central)
 
-Using Google App Engine’s Endpoints API, built the Python backend to support a web- and Android-based conference organization application.
+Using `Google App Engine’s` Endpoints API, built the `Python` backend to support a web- and Android-based conference organization application.
 
 ----
 
