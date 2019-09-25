@@ -96,7 +96,12 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 
 Smaller projects mainly done with the purpose of learning and implementing something new.
 
+#### [Titanic Survival](https://github.com/sagecodes/titanic-survival-logistic-regression)
+
+Use `logistic regression` model, `sklearn`, `python` and the classic titanic dataset to predict survivors on titanic. 
+
 #### [Iris Classification](https://github.com/sagecodes/irsit-classification2-knn)
+
 Use `kNN` model, `sklearn`, `python` and the classic iris dataset to predict flower species based on features. 
 
 ----
@@ -122,6 +127,12 @@ Use `Facebook prophet`, `python`  to predict avocado prices in the USA.
 #### [Alexa Amazon Review Classification](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
 
 Use `Random Forest` model, `sklearn`, `python`  and the Alexa Amazon Review dataset to predict positive or negative reviews based on text
+
+----
+
+#### [Ad Click Prediction](https://github.com/sagecodes/ad-clicks-logistic-regression)
+
+Use `logistic regression` model, `sklearn`, `python`  to predict if a user will click on an ad. 
 
 ----
 
