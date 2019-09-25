@@ -100,6 +100,8 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 
 Use `logistic regression` model, `sklearn`, `python` and the classic titanic dataset to predict survivors on titanic. 
 
+----
+
 #### [Iris Classification](https://github.com/sagecodes/irsit-classification2-knn)
 
 Use `kNN` model, `sklearn`, `python` and the classic iris dataset to predict flower species based on features. 
