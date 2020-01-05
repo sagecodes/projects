@@ -27,7 +27,9 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 ### Computer Vision
 
-#### Projects
+#### Image Classifier Starter (TensorFlow 2.0)
+
+A starter repo for image classification projects. Using `Tensorflow 2.0` and `keras`. 
 
 ----
 
