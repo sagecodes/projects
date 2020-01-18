@@ -1,14 +1,14 @@
-# Projects
-
 Here is a more organized way of finding my publicly available projects.
 
 You can also visit [sageelliott.com/](https://sageelliott.com) for projects, blog posts, resume,  and more!
 
 You can find a list if my workshop repos [here]().
 
-<!--## Featured Projects-->
+## Featured Projects
 
-### Tools
+coming soon
+
+## Tools
 
 ____
 
@@ -25,7 +25,7 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 
 
-### Computer Vision
+## Computer Vision
 
 #### [Image Classifier Starter (TensorFlow 2.0)](https://github.com/sagecodes/cnn-tenssorflow2-template)
 
@@ -92,7 +92,7 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 
 ----
 
-### Machine learning 
+## Machine learning 
 
 #### Case Studies
 
