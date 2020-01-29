@@ -1,16 +1,16 @@
-Here is a more organized way of finding my publicly available projects.
+Here is a more organized way of finding my publicly available projects. Though it's still work in progress.
 
 You can also visit [sageelliott.com/](https://sageelliott.com) for projects, blog posts, resume,  and more!
 
 You can find a list if my workshop repos [here]().
 
-## Featured Projects
+# Featured Projects
 
 coming soon
 
-## Tools
+# Tools
 
-____
+----
 
 #### [Image Dataset labeler](https://github.com/sagecodes/image-data-labeler)
 
@@ -25,7 +25,9 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 
 
-## Computer Vision
+# Computer Vision
+
+----
 
 #### [Image Classifier Starter (TensorFlow 2.0)](https://github.com/sagecodes/cnn-tenssorflow2-template)
 
@@ -87,12 +89,11 @@ Smaller projects mainly done with the purpose of learning and implementing somet
 
 ----
 
-
 #### [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 
 ----
 
-## Machine learning 
+# Machine learning 
 
 #### Case Studies
 
@@ -217,10 +218,10 @@ Use `collaborative filtering` with `pandas` and `python` to recommend movies bas
 
 ----
 
-## Data Visualizations
+# Data Visualizations
 
 
-## Web Development
+# Web Development
 
 #### Projects:
 ___
