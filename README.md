@@ -10,7 +10,6 @@ coming soon
 
 # Tools
 
-----
 
 #### [Image Dataset labeler](https://github.com/sagecodes/image-data-labeler)
 
@@ -18,22 +17,24 @@ I needed a quick and simple way manually label images into seperate datasets so 
 
 ----
 
-#### [Image Dataset Scraper](https://github.com/sagecodes/image-scraper)
+#### [TensorFlow 2.0 Image Classifier Starter Template](https://github.com/sagecodes/cnn-tenssorflow2-template)
+
+A starter repo for image classification projects. Using `Tensorflow 2.0` and `keras`. 
+
+----
+
+#### [Pytorch Image Classifier Starter Template](https://github.com/sagecodes/cnn-pytorch-starter)
+
+A starter repo for image classification projects. Using `Pytorch`. 
 
 
+<!-- #### [Image Dataset Scraper](https://github.com/sagecodes/image-scraper) -->
 ----
 
 
 
 # Computer Vision
 
-----
-
-#### [Image Classifier Starter (TensorFlow 2.0)](https://github.com/sagecodes/cnn-tenssorflow2-template)
-
-A starter repo for image classification projects. Using `Tensorflow 2.0` and `keras`. 
-
-----
 
 
 #### Brand Classifier
