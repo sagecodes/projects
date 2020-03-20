@@ -35,6 +35,16 @@ A starter repo for image classification projects. Using `Pytorch`.
 
 # Computer Vision
 
+----
+
+#### Architecture Design Generation
+
+Generated thousands of original design images for architecture design using a Wasserstein 
+Generative adversarial network (WGAN) with gradient penalty.
+
+Training dataset was created using images of zaha Hadid buildings
+
+Uses: `python`, `Tensorflow`, `keras`
 
 
 #### Brand Classifier
@@ -43,10 +53,6 @@ A starter repo for image classification projects. Using `Pytorch`.
 
 #### Dog Breed Classifier
 
-----
-
-
-#### WGAN Buildings
 
 ----
 
